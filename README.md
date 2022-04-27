@@ -1,4 +1,4 @@
-# firebase-vue-trello
+# vue3-vuex-firebase
 
 ## Project setup
 ```
